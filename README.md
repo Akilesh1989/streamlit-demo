@@ -1,7 +1,9 @@
 # Exploring the Titanic dataset using Streamlit
 
 The idea behind this repo is to explore the functionalities of Streamlit. I do this by trying to build an app that explores the Titanic dataset.
-I will be adding more features when I have the time.
+You can watch how the app works in this [Youtube video](https://youtu.be/jyq5jQxXUHQ).
+
+
 
 # Running the app
 First install all the required packages by running,
